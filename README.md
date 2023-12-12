@@ -13,7 +13,7 @@ To install the required dependencies, please run the following command:
 
 ```
 pip install -r requirements.txt
-```
-
+``` 
+To run the analysis run the file Final_Analysis_Big_Data.ipynb in a Jupyter Notebook.
 
 
