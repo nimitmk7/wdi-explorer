@@ -4,7 +4,7 @@ This repo contains the code and dataset for the research paper "World Developmen
 
 ## Setup
 
-To clone the repository located at git@github.com:nimitmk7/wdi-explorer.git, use the following command: 
+To clone the repository, use the following command: 
 ```
 git clone git@github.com:nimitmk7/wdi-explorer.git
 ```
